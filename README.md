@@ -1,16 +1,11 @@
-# electionui
+# Election UI Built with Flutter
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Election UI Flutter](https://user-images.githubusercontent.com/31751665/174423480-62e0d3ba-fa38-4253-a2d0-6c11490924e2.jpg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Support my works:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<a href="https://www.buymeacoffee.com/chhinsras" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
